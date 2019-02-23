@@ -265,15 +265,14 @@
 
 			&.playback {
 				left: 0;
-				width: 40px;
+				width: 100px;
 
 				.control {
 					&.play {
 						margin-bottom: -8px;
 					}
 
-					&.previous,
-					&.next {
+					&.previous {
 						display: none;
 					}
 					

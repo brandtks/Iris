@@ -4725,10 +4725,10 @@ select {
         display: none; }
     .playback-controls section.playback {
       left: 0;
-      width: 40px; }
+      width: 100px; }
       .playback-controls section.playback .control.play {
         margin-bottom: -8px; }
-      .playback-controls section.playback .control.previous, .playback-controls section.playback .control.next {
+      .playback-controls section.playback .control.previous {
         display: none; }
       .playback-controls section.playback .control.stop {
         display: none; }
