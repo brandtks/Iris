@@ -4725,7 +4725,7 @@ select {
         display: none; }
     .playback-controls section.playback {
       left: 0;
-      width: 65px; }
+      width: 75px; }
       .playback-controls section.playback .control.play {
         margin-bottom: -6px; }
       .playback-controls section.playback .control.previous {
